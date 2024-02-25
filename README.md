@@ -57,9 +57,6 @@ OPENWEATHERMAP_API_KEY=your_openweathermap_api_key
 ## Microsoft Azure Integration 
 * Weather Mosaic provides integration with Microsoft Azure services for weather notifications, GPS Location Retrieval, daily and hourly weather forecast .
 
-<p align="center">
-  <img alt="Azure" src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Symbol.png">
-</p>
 
 Add the following environment variables also to the `.env` file you created earlier:
 
